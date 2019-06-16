@@ -1,4 +1,4 @@
-# A small event-driven chat application from the book Node.js in Action
+# A small event-driven chat application.
 
 ## Features
 - Serve the application’s HTML , CSS , and client-side JavaScript
@@ -10,7 +10,7 @@
 
 ## License
 
-Disclaimer: Everything you see here is open and free to use as long as you comply with the [license](https://github.com/joemash/django-products-order/blob/master/LICENSE). 
+Disclaimer: Everything you see here is open and free to use as long as you comply with the [license](https://github.com/joemash/node-js-in-action/blob/master/multiChatApp/LICENCE.md). 
 
 #### Crafted with ❤️ by Josephat Macharia
 josemash4@gmail.com
